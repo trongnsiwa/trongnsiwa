@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trongnsiwa&show_icons=true)
 
 
 <br/><br/>
@@ -32,10 +32,10 @@
 <br>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/nguyen-si-trong-792927209/"><img alt="LinkedIn" src="http://simpleicon.com/wp-content/uploads/linkedin.png"></a>
+ <a href="https://www.linkedin.com/in/nguyen-si-trong-792927209/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nguyen-si-trong-792927209-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/"><img alt="Instagram" src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>
+<a href="https://www.instagram.com/trong.iwa.79/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-trong-iwa-79-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:trongnsiwa79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:trongnsiwa79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-trongnsiwa79@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
