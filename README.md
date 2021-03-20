@@ -32,9 +32,9 @@
 <br>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/nguyen-si-trong-792927209/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/nguyen-si-trong-792927209/"><img alt="LinkedIn" src="http://simpleicon.com/wp-content/uploads/linkedin.png"></a>
 
-<a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/"><img alt="Instagram" src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>
 
 <a href="mailto:trongnsiwa79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
