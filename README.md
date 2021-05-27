@@ -8,11 +8,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C | C#
+- 💻 &nbsp; Node.js | Java | C++ | C | C#
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery
+- 🌐 &nbsp; React | Next.js | HTML | CSS | JavaScript | Bootstrap | JQuery
 
-- 🛢 &nbsp; SQL
+- 🛢 &nbsp; SQL, NoSQL
 
 <hr>
 
