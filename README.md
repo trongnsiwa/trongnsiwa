@@ -8,9 +8,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Node.js | Java
+- 💻 &nbsp; Java | SpringBoot
 
-- 🌐 &nbsp; React | Next.js | HTML | CSS | JavaScript | Bootstrap | JQuery
+- 🌐 &nbsp; React | Next.js | TaiwindCSS
 
 - 🛢 &nbsp; SQL
 
