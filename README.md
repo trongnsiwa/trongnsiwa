@@ -2,17 +2,17 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-- ✨ I want to become a Web Developer, more about Front-End side.
+- ✨ I want to become a Developer, more about Front-End side.
 
-- 🏫 Now I am studying Software Engineering at FPT University, a good learning environment.
+- 🏫 I have been studied Software Engineering at FPT University, a good learning environment.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | SpringBoot
+- 💻 &nbsp; Java | JavaScript | TypeScript
 
 - 🌐 &nbsp; React | Next.js | TaiwindCSS
 
-- 🛢 &nbsp; SQL
+- 🛢 &nbsp; SQL | NoSQL
 
 <hr>
 
@@ -34,8 +34,6 @@
 <p align="center">
  
  <a href="https://www.linkedin.com/in/nguyen-si-trong-792927209/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nguyen%20Si%20Trong-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/trong.iwa.79/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-trong.iwa.79-blue?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:trongnsiwa79@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-trongnsiwa79@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
