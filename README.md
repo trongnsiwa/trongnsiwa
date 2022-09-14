@@ -12,6 +12,8 @@
 
 - 🌐 &nbsp; React | Next.js | TaiwindCSS
 
+- 📱 &nbsp; Dart | Flutter
+
 - 🛢 &nbsp; SQL | NoSQL
 
 <hr>
